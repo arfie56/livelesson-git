@@ -2,3 +2,7 @@
 - git clone <URL> : brings the git repo from <URL> to current folder
 - git add filename: to insert file to the staging area
 - git status: display status of the repository
+- git commit: open a text editor to write commit message
+- git commit -m "MESSAGE": write MESSAGE as a commit without a text editor
+- git log : dispaly history of our commits
+- git log --oneline : show the shorter oneline commit

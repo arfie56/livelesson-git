@@ -1,4 +1,4 @@
-# Git notes
+# Git NOTES
 - git init : initialize current folder as a git repository
 - git clone <URL> : brings the git repo from <URL> to current folder
 - git add filename: to insert file to the staging area
@@ -23,4 +23,4 @@
 - git remote rm `<NAME>` : removes the remote called <NAME>
 - git pull `<WHERE> <WHAT>` : pull the branch in to local computer
 
-THE END
+THE END OK
